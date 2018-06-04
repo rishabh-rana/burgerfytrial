@@ -1,0 +1,8 @@
+.burger{
+  height: 600px;
+  width: 50%;
+  overflow-y:scroll;
+  margin: 0 auto;
+  text-align: center;
+
+}

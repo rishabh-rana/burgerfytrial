@@ -1,0 +1,17 @@
+.navb{
+  border: 1px solid black;
+  text-align: center;
+  background-color: salmon;
+  line-height: 30px;
+}
+.laBody{
+  padding-top: 20px;
+  background-color: dodgerblue;
+  margin: 0;
+}
+div {
+  margin: 0;
+}
+h3{
+  margin: 0;
+}

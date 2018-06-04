@@ -1,0 +1,14 @@
+.mymodal{
+  background: white;
+  position: fixed;
+  width: 70%;
+  text-align: left;
+  left: 15%;
+  top: 30%;
+  z-index: 500;
+
+}
+
+.hidemodal {
+  display: none;
+}

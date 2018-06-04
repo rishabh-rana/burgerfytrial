@@ -1,0 +1,17 @@
+.controlUI{
+  line-height: 20px;
+  text-align: center;
+  background-color: salmon;
+}
+.contbutton{
+  text-align: center;
+  border-radius: 100%;
+  background-color: white;
+  box-shadow: none;
+  outline: none;
+  line-height: normal;
+}
+.label{
+  text-align: center;
+  display: inline-block;
+}
